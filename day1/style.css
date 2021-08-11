@@ -1,0 +1,82 @@
+*{
+  background-color: #D8AC9C;
+}
+
+/* margins of page */
+.b{
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+
+.my-container{
+  width: 100%;
+  height: 100%;
+}
+
+/* background colors of all 3 rows */
+.row-1{
+  padding-top: 30px;
+  height: 180px;
+  background-color: #D8AC9C;
+}
+
+.row-2{
+  padding-top: 30px;
+  height: 210px;
+  background-color: #D8AC9C;
+}
+
+.row-3{
+  height: 180px;
+  background-color: #D8AC9C;
+}
+
+/* Blocks of height 150px each in each rows */
+ .block{
+  height: 150px;
+  background-color: #87A7B3;
+}
+
+.block1{
+  height: 150px;
+  background-color: #194350;
+}
+
+.block2{
+  height: 150px;
+  background-color: #630000;
+}
+
+/* Background color of Bold text also colors of others texts present in the blocks */
+.bold1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  background-color: #87A7B3;
+  color: black;
+}
+
+.bold2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+  background-color: #194350;
+  color: white;
+}
+
+.bold3{
+  font-size: 20px;
+  font-family: 'Dancing Script', cursive;
+  background-color: #630000;
+  color: white;
+}
+
+.colr1{
+  color: #000000;
+}
+
+.colr2{
+  color: white;
+}
+
+.colr3{
+  color: white;
+}
